@@ -1,8 +1,10 @@
-React Learning Journey
-======================
+
+# React Learning Journey
+
 
 This repository contains my progress in learning React.
 
+---
 Lectures
 --------
 
@@ -42,3 +44,32 @@ Lectures
 -   [ ]  Open Source Projects
 -   [ ]  AMA + Bonus
 -   [ ]  Extras
+
+---
+# Projects
+
+-   [ ]  To-do List App - React Basics
+-   [ ]  Weather App - React Basics
+-   [ ]  Github Users Search - Master Project React Router and Routing
+-   [ ]  Shopping Cart - Master Project Forms + Components
+-   [ ]  Chat App - Master Project Firebase + User Authentication
+-   [ ]  Blog App - Master Project Redux 1
+-   [ ]  E-commerce Website - Master Project Redux 2
+-   [ ]  Social Media App - Master Project Advanced Redux + Firebase
+-   [ ]  Job Board - Master Project Asynchronous Redux
+-   [ ]  Recipe App - Master Project Container Pattern
+-   [ ]  Movie App - Master Project GraphQL + Apollo
+-   [ ]  News App - Master Project Mobile Support-   [ ]  To-do List App - React Basics
+-   [ ]  Weather App - React Basics
+-   [ ]  Github Users Search - Master Project React Router and Routing
+-   [ ]  Shopping Cart - Master Project Forms + Components
+-   [ ]  Chat App - Master Project Firebase + User Authentication
+-   [ ]  Blog App - Master Project Redux 1
+-   [ ]  E-commerce Website - Master Project Redux 2
+-   [ ]  Social Media App - Master Project Advanced Redux + Firebase
+-   [ ]  Job Board - Master Project Asynchronous Redux
+-   [ ]  Recipe App - Master Project Container Pattern
+-   [ ]  Movie App - Master Project GraphQL + Apollo
+-   [ ]  News App - Master Project Mobile Support
+
+---
