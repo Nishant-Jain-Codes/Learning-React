@@ -9,7 +9,16 @@ Lectures
 --------
 
 -   [x]  Introduction
--   [ ]  React Key Concepts
+-   [x]  React Key Concepts
+    - why react 
+    - history of react
+    - Pros of react 
+      - 1. Virtual DOM
+      - 2. reusable components
+      - 3. performance
+      - 4. state management
+      - 5. one way data flow
+    - possiblilities with react ( web, mobile, desktop, VR, AR, IOT)
 -   [ ]  React Basics
 -   [ ]  Master Project Setting Up E-commerce Project
 -   [ ]  Master Project React Router and Routing
