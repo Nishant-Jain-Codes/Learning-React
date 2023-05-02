@@ -22,6 +22,9 @@ Lectures
 -   [ ]  React Basics
     -   setting up react (downloading node and using create react app)
     -   setting up environment (ios/windows/linux)
+    -   setting up my react app (create react app)
+    -   npm start , npm run build
+    -   video no (10) pause
 -   [ ]  Master Project Setting Up E-commerce Project
 -   [ ]  Master Project React Router and Routing
 -   [ ]  Master Project Forms + Components
