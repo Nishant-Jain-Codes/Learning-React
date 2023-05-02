@@ -20,6 +20,8 @@ Lectures
       - 5. one way data flow
     - possiblilities with react ( web, mobile, desktop, VR, AR, IOT)
 -   [ ]  React Basics
+    -   setting up react (downloading node and using create react app)
+    -   setting up environment (ios/windows/linux)
 -   [ ]  Master Project Setting Up E-commerce Project
 -   [ ]  Master Project React Router and Routing
 -   [ ]  Master Project Forms + Components
